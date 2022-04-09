@@ -1,0 +1,10 @@
+{
+  "title": "Planificación y Diseño de Minas Subterráneas",
+  "objective": "Construir los lineamientos necesarios para realizar la planificación y diseño de una mina subterránea, considerando el tipo de yacimiento, el tipo de mineralización, la calidad de roca y horizonte de planificación.",
+    "modules": [
+      {"order": "Unidad 1", "description":"Introducción a la Planificación y Diseño"},
+      {"order": "Unidad 2", "description":"Modelos económicos y ritmo de producción"},
+      {"order": "Unidad 3", "description":"Recursos, Reservas y métodos de explotación"},
+      {"order": "Unidad 4", "description":"Proyectos Mineros"},
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "EQUIPO DE DIPLOMADO",
+  "duration": 20,
+  "velocity": 12,
+  "audio":"contest.mp3",
+    "options": [
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tUSD $5.00", "description":"USD $5.00", "color": "#FE8B4C", "font_color": "white", "es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tHAMBURGUESA", "description":"HAMBURGUESA PERSONAL BEMBOS", "color": "#F43944", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tUSD $10.00", "description":"USD $10.00", "color": "#AB3258", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tKFC", "description":"BALDE PERSONAL KFC", "color": "#593068", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tGIFT CARD S/50", "description":"GIFT CARD S/50", "color": "#22477C", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tUSD $15.00", "description":"USD $15.00", "color": "#8FA08B", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\tPIZZA PERSONAL", "description":"PIZZA PERSONAL", "color": "#59B844", "font_color": "white","es_premio": "1"},
+      {"value": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSIGUE INTENTANDO", "description":"SIGUE INTENTANDO", "color": "#9F8D3F", "font_color": "white","es_premio": "1"}
+    ]
+}
